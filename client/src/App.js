@@ -8,11 +8,7 @@ import {
 } from '@apollo/client';
 import { setContext } from '@apollo/client/link/context';
 
-// TODO:
-//  import Provider from 'react-redux with object destructure
 import { Provider } from 'react-redux';
-// TODO:
-//  import store from './utils/store'
 import store from './utils/store';
 
 import Home from './pages/Home';
