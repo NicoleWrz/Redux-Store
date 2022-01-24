@@ -18,8 +18,6 @@ const initialState = {
   cartOpen: false,
 }
 
-//  ToDO:
-//    Make the first input parameter 'state' accept 'initialState' as its default value
 export const reducers = (state = initialState, action) => {
   switch (action.type) {
     case UPDATE_PRODUCTS:
