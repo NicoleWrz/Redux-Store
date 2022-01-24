@@ -95,12 +95,8 @@ export const reducers = (state, action) => {
   }
 };
 
-// TODO:
-//  remove the following code
 export function useProductReducer(initialState) {
   return useReducer(reducer, initialState);
 }
 
-// TODO:
-//  add export default reducers below
 export default reducers;
