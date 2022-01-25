@@ -21,6 +21,7 @@
   npm install
 
 ## Screenshot
+![](https://github.com/NicoleWrz/Redux-Store/blob/78c5e54e75b605e3669ecd6dd5343711a391395a/client/src/assets/redux-store-SS.png)
 
 ## License
 [![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue&?style=plastic&link=https://choosealicense.com/licenses/mit/)](https://choosealicense.com/licenses/mit/)
