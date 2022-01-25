@@ -6,8 +6,7 @@
   - [Description](#Description)
   - [Deployed Link](#Deployed-Link)
   - [Installations](#Installations)
-  - [Usage](#Usage)
-  - [Tests](#Tests)
+  - [Screenshot](#Screenshot)
   - [License](#License)
   - [Questions](#Questions)
 
