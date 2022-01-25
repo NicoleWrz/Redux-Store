@@ -15,6 +15,7 @@
  E-commerce website using React, Redux and Stripe that allows user to login, purchase items and see their order history.
 
 ## Deployed-Link
+[Redux-Store](https://my-redux-store.herokuapp.com/)
 
 ## Installations
   npm install
